@@ -1,3 +1,6 @@
-git remote add origin https://github.com/NAMA_USER/NAMA_REPO.git
+git init
+git add .
+git commit -m "Initial commit"
 git branch -M main
+git remote add origin https://github.com/USERNAME/NAMA-REPO.git
 git push -u origin main
